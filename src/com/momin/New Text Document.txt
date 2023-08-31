@@ -1,0 +1,1 @@
+https://examples.javacodegeeks.com/java-development/enterprise-java/jms/java-jms-helloworld-on-jboss-example/
